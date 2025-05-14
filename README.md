@@ -24,6 +24,7 @@ Este proyecto compara el rendimiento y la implementación de un **índice invert
 
 ## 🧪 Estructura del proyecto
 
+```
 ├── cpp/
 │   └── indice_invertido.cpp        # Código fuente en C++ con OpenMP
 ├── rust/
@@ -33,8 +34,7 @@ Este proyecto compara el rendimiento y la implementación de un **índice invert
 ├── indice_invertido.txt           # Salida C++
 ├── indice_invertido_rust.txt      # Salida Rust
 └── README.md                      # Este documento
-
-
+```
 
 ---
 
